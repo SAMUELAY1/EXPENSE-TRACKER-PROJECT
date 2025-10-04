@@ -23,11 +23,11 @@ Exploratory Data Analysis (EDA) – visualize income, expenses, and savings tren
 ## Dataset
 The dataset (data.csv) contains simulated personal financial data with features such as:
 Column	Description
-Income	Monthly income of the user
-Total_Expenses	Total monthly expenses
-Savings	Remaining balance after expenses
-Age, Occupation, City_Tier	 Demographic information
-Potential_Savings_*	Simulated potential savings categories
+# Income	Monthly income of the user
+# Total_Expenses	Total monthly expenses
+# Savings	Remaining balance after expenses
+# Age, Occupation, City_Tier	 Demographic information
+# Potential_Savings_*	Simulated potential savings categories
  
 ## Tech Stack
 Tool / Library	Purpose
